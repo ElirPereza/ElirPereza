@@ -13,7 +13,7 @@
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=luiskd1&label=Profile%20views&color=brightgreen&style=plastic" alt="luis santana profile views" /> 
 	<a href="https://github.com/luiskd1?tab=followers"><img src="https://img.shields.io/github/followers/luiskd1?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br><br><br>
+<br><br>
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
