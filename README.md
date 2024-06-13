@@ -3,12 +3,12 @@
  
 ### Hi there 👋 I'm Jesus Maldonado (ElirPereza)
 
-> I am a hardworking individual who is dedicated towards his goals.
+> If you want to know who you are, walk until there is no one who knows your name without getting lost along the way.
 <br />
 
 - 🌱 &nbsp;I'm currently studying Programing
 - :computer: &nbsp;Connect with me on **<img  alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>**
-- 📫 How to reach me **Jmaldona18@cuc.edu.co**
+- 📫 Feel free to reach me out **Jmaldona18@cuc.edu.co**
 - 📝 I studied at CUC(Univesidad de la Costa)
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=ElirPereza&label=Profile%20views&color=brightgreen&style=plastic" alt="Maldonado profile views" /> 
@@ -65,3 +65,4 @@
  
 <br><br><br><br>
 
+<img  alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> = www.linkedin.com/in/jesus-maldonado-maldonado-2603a7264
