@@ -7,7 +7,7 @@
 <br />
 
 - 🌱 &nbsp;I'm currently studying Programing
-- :computer: &nbsp;Connect with me on <a href="www.linkedin.com/in/jesus-maldonado-maldonado-2603a7264" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/jesus-maldonado-maldonado-2603a7264" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - 📫 Feel free to reach me out **Jmaldona18@cuc.edu.co**
 - 📝 I studied at CUC(Univesidad de la Costa)
 - 💬 Ask me about: anything, I am happy to help
