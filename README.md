@@ -16,7 +16,7 @@
 <br><br>
 
 <p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhvcGp6ZzZuaWw4NzA2enBua3hpemVrdWMxYTJ4eGc2d21maTZnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H1dxi6xdh4NGQCZSvz/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 	
 </p>
  
