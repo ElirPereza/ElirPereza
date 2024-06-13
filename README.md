@@ -8,8 +8,8 @@
 
 - 🌱 &nbsp;I'm currently studying Programing
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **luis12w@hotmail.com**
-- 📝 I studied at CUC
+- 📫 How to reach me **Jmaldona18@cuc.edu.co**
+- 📝 I studied at CUC(Univesidad de la Costa)
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=luiskd1&label=Profile%20views&color=brightgreen&style=plastic" alt="luis santana profile views" /> 
 	<a href="https://github.com/luiskd1?tab=followers"><img src="https://img.shields.io/github/followers/luiskd1?label=Followers&style=social" alt="GitHub Badge"></a>
