@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**ElirPereza/ElirPereza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ 
+### Hi there 👋 I'm Jesus Maldonado (ElirPereza)
 
-Here are some ideas to get you started:
+> I am a hardworking individual who is dedicated towards his goals.
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 &nbsp;I'm currently studying Programing
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 📫 How to reach me **luis12w@hotmail.com**
+- 📝 I studied at CUC
+- 💬 Ask me about: anything, I am happy to help
+- 	<img src="https://komarev.com/ghpvc/?username=luiskd1&label=Profile%20views&color=brightgreen&style=plastic" alt="luis santana profile views" /> 
+	<a href="https://github.com/luiskd1?tab=followers"><img src="https://img.shields.io/github/followers/luiskd1?label=Followers&style=social" alt="GitHub Badge"></a>
+<br><br><br><br>
+
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
+ 
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiskd1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Luis" />
+</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=luiskd1&show_icons=true&locale=en&theme=chartreuse-dark" alt="Luis" width="410"/>
+</p>
+
+<br><br><br><br><br><br><br><br>
