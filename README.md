@@ -1,5 +1,5 @@
 
- <img align="right" height="270px" alt="guy" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhvcGp6ZzZuaWw4NzA2enBua3hpemVrdWMxYTJ4eGc2d21maTZnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H1dxi6xdh4NGQCZSvz/giphy.gif" /> </a>
+ <img align="right" height="270px" alt="guy" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhvcGp6ZzZuaWw4NzA2enBua3hpemVrdWMxYTJ4eGc2d21maTZnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H1dxi6xdh4NGQCZSvz/giphy.gif" /> </a>
  
 ### Hi there 👋 I'm Jesus Maldonado (ElirPereza)
 
