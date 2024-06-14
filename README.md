@@ -21,7 +21,7 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElirPereza&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Maldonado" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElirPereza&langs_count=5&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Maldonado" />
 </p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ElirPereza&show_icons=true&locale=en&theme=chartreuse-dark" alt="Maldonado" width="410"/>
 </p>
